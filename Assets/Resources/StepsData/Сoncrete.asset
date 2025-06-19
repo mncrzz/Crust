@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89b3f1a05209d73498daf9f94033c678, type: 3}
+  m_Name: "\u0421oncrete"
+  m_EditorClassIdentifier: 
+  textures:
+  - {fileID: 2800000, guid: fde3fec321699044989df24b3788ed39, type: 3}
+  - {fileID: 2800000, guid: c33b338f2b4a4f045810c29325112230, type: 3}
+  stepSFX:
+  - {fileID: 8300000, guid: 7e24703cc964da948b08dc4013b14287, type: 3}
+  - {fileID: 8300000, guid: bd9d05c74380cfb4386448048dab3a27, type: 3}
+  - {fileID: 8300000, guid: f5f8ab72eb4bbc040ae81e72ed54df43, type: 3}
+  - {fileID: 8300000, guid: 705c832bb3f683742a2ac81b667d9b44, type: 3}

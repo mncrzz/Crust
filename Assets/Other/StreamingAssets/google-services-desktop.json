@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1012235558175",
+    "firebase_url": "https://crust-3358a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crust-3358a",
+    "storage_bucket": "crust-3358a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012235558175:android:d7014d595a9c29a5ede42a",
+        "android_client_info": {
+          "package_name": "com.breadlabs.Crust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeN1rjqrG6_PpryYwpuwcGsigoEm-ci8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
